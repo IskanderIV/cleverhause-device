@@ -1,9 +1,3 @@
-# C++ sources
-Baza/*              linguist-vendored
-CleverhauseLib/*    linguist-vendored
-Device/*            linguist-vendored
-DeviceLib/*         linguist-vendored
-
 # Java sources
 *.java          text diff=java
 *.gradle        text diff=java
